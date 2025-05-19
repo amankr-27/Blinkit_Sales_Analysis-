@@ -1,2 +1,2 @@
-### Blinkit Sales Analysis
-![Image](/blinkit.PNG)
+# Blinkit Sales Analysis
+![Image](/blinkit.png)
